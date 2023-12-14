@@ -1,0 +1,17 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Command-line application for managing employee data",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.0.0",
+      "mysql": "^2.18.1"
+     
+    }
+  }
+  
